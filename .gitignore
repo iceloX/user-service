@@ -1,4 +1,5 @@
 ### Maven template
+.idea
 target/
 pom.xml.tag
 pom.xml.releaseBackup
@@ -85,3 +86,6 @@ fabric.properties
 .idea/caches/build_file_checksums.ser
 
 /*/src/main/resources/rebel.xml
+*.iml
+.DS_Store
+
